@@ -1,0 +1,4 @@
+interface:
+  display_name: "检查并修复讲解"
+  short_description: "以原文证据检查选材、入口、必要步骤和证据范围，并作最小定点修复"
+  default_prompt: "用 $audit-explanation 检查这段讲解，优先修复事实、数学错误和必要解释缺口。"

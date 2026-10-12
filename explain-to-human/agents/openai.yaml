@@ -1,0 +1,4 @@
+interface:
+  display_name: "面向人的讲解"
+  short_description: "按当前问题组织每块新内容，以短直觉引入并完整保留推导、条件与实现"
+  default_prompt: "用 $explain-to-human 解释这个问题，先讲清具体关系，再展开必要推导或实现。"

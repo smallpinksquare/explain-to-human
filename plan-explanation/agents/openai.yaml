@@ -1,0 +1,4 @@
+interface:
+  display_name: "组织讲解内容"
+  short_description: "依据当前问题与理解依赖选择内容，重选重点并形成简短可核查规格"
+  default_prompt: "用 $plan-explanation 规划怎样讲清这个问题，列出必要内容、依赖和保留条件。"
